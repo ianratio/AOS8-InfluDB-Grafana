@@ -10,8 +10,8 @@ import ap_statistics
 import time
 
 username='admin'
-password='Aruba123!'
-vMM_aosip='172.16.0.55'
+password='admin123'
+vMM_aosip='192.168.150'
 
 while True:
     #Get the token to access vMM information  -- via API
