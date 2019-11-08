@@ -11,7 +11,7 @@ import time
 
 username='admin'
 password='admin123'
-vMM_aosip='192.168.150'
+vMM_aosip='192.168.1.50'
 
 while True:
     #Get the token to access vMM information  -- via API
